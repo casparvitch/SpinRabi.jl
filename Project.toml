@@ -1,0 +1,13 @@
+name = "SpinRabi"
+uuid = "b82fb295-0953-4b9b-9d34-588e0558a102"
+authors = ["Sam Scholten <samcaspar@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

@@ -3,6 +3,15 @@ uuid = "b82fb295-0953-4b9b-9d34-588e0558a102"
 authors = ["Sam Scholten <samcaspar@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+FromFile = "ff7dd447-1dcb-4ce3-b8ac-22a812192de7"
+JuliaFormatter = "98e50ef6-434e-11e9-1051-2b60c6c9e899"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
+
 [compat]
 julia = "1.8"
 
